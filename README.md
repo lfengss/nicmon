@@ -1,5 +1,7 @@
 # NICMon - Network Interface Card Monitor
 
+This project is maintained by Lin Zhiyong.
+
 A lightweight Windows utility for monitoring network adapter performance in real-time.
 
 ## Features
